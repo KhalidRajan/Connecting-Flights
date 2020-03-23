@@ -1,5 +1,5 @@
 #Completed By: Khalid Rajan(20069611)
-#Parts of this code have been adopted from Professor Dawes solution for Lab 1
+#Travel-Planning Dijkstra's Algorithm Python Programming Project for CMPE 365(Algorithms 1) during Fall Semester of 2019-2020.  Given a text file of source and destination airports and departure and arrival times, find the route that starts in city A and ends in city B with the earliest arrival time by applying Dijkstra's Algorithm.  
 
 # Testing code: infile = open("2019_Lab_2_flights_test_data.txt","r")
 infile = open("2019_Lab_2_flights_real_data.txt","r")
